@@ -7,7 +7,7 @@ Hand::Hand(void) {
 }
 
 int Hand::getSize(void) {
-	return size;
+  return size;
 }
 
 string Hand::toString(void) {
@@ -15,7 +15,7 @@ string Hand::toString(void) {
 }
 
 int Hand::getTop(void) {
-	return top;
+  return top;
 }
 
 bool Hand::isEmpty(void) {
